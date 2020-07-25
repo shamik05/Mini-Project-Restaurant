@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shamik05/Mini-Project-Restaurant/issues"
   },
-  "homepage": "https://github.com/shamik05/Mini-Project-Restaurant#readme"
+  "homepage": "https://github.com/shamik05/Mini-Project-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
