@@ -1,0 +1,19 @@
+{
+  "name": "mini-project-restaurant",
+  "version": "1.0.0",
+  "description": "Aisling, Dasa, Dina, Liam, Shamik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamik05/Mini-Project-Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamik05/Mini-Project-Restaurant/issues"
+  },
+  "homepage": "https://github.com/shamik05/Mini-Project-Restaurant#readme"
+}
