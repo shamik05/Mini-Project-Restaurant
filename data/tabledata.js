@@ -5,10 +5,6 @@ class TableArray {
         this.customerEmail = customerEmail;
         this.customerID = customerID;
         this.phoneNumber = phoneNumber;
-        // customerName: "Dina",
-        // customerEmail: "dinaiscool@example.com",
-        // customerID: "dina123",
-        // phoneNumber: "613-234-222"
     }
 };
 module.exports = TableArray;
